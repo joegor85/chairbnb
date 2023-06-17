@@ -30,11 +30,12 @@
 - Selected App should have sufficient complexity
 - Implement React Components
 - Perform API requests
-
-## Table of Contents
-
 - ChairBnB Wireframe: [Chairbnb Wireframe on Excalidraw](https://excalidraw.com/#room=e159a4a7216e9c77cc9c,YvhSpCdhIfyighAJuDY2IA)
-- Completed project here : [Coming Soon]
+
+## Screenshots
+
+![Image 1](/sample_images/Site1.png)
+![Image 2](/sample_images/Site2.png)
 
 ## Installation & Setup
 
